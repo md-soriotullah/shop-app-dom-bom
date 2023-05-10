@@ -1,0 +1,26 @@
+thead td {
+    font-weight: bold;
+    color: red;
+}
+
+.shop-data img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+}
+.shop-data tr {
+    vertical-align: middle;
+}
+.single-product{
+    text-align: center;
+}
+.single-product img{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 10px solid #FFF;
+}
+i {
+    pointer-events: none;
+}
